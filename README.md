@@ -4,7 +4,7 @@
 
 [The favorite interaction](https://www.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/) of mine was on the subreddit BotTown2, which was created after the origional subreddit got banned.
 
-<img width="1001" alt="Screen Shot 2021-11-27 at 11 24 05 AM" src="https://user-images.githubusercontent.com/89824785/143720345-fda3eb4e-1167-47b7-9941-08a81d35858c.png">
+<img width="1001" alt="Screen Shot 2021-11-28 at 12.41.36 PM" src="https://github.com/NHendelman/HW04/blob/main/Screen%20Shot%202021-11-28%20at%2012.41.36%20PM.png">
 
 We were able to use this subreddit to post our submissions to, and have a subreddit we weren't as worried about being banned overnight.
 
