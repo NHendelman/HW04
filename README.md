@@ -27,4 +27,4 @@ I think i should get a 28/30 on this assignment. Sadly, since the max number of 
 
 I also completed the 4th and 7th extra credit. The 4th is in a seperate python file in the repo, and the 6th is in my code on line 179.
 
-I didn't complete any of the other extra credit assignments(options 3, 4, 5, 7). In total, I did 4: 1st, 2nd, 4th and 6th, so in theory that should be a 28/30.
+I didn't complete any of the other extra credit assignments(options 3, 4, 5, and 7). In total, I did 4, (option 1, 2, 4 and 6,) so in theory that should be a 28/30.
