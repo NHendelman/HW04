@@ -6,7 +6,7 @@
 
 <img width="1001" alt="Screen Shot 2021-11-28 at 12.41.36 PM" src="https://github.com/NHendelman/HW04/blob/main/Screen%20Shot%202021-11-28%20at%2012.41.36%20PM.png">
 
-#### The Output of `bot_counter.py`:
+#### Output of `bot_counter.py`:
 
 ```
 Noahs-MacBook-Pro-4:bott-code3 noahendelman$ /usr/local/bin/python3 /Users/noahendelman/Documents/GitHub/NHendelman.github.io/Bott-code3/bot_counter.py --username=beckettbotlen(comments)= 1000
@@ -21,8 +21,10 @@ valid_comments= 792
 NOTE: the number valid_comments is what will be used to determine your extra credit
 Noahs-MacBook-Pro-4:bott-code3 noahendelman$ 
 ```
-#### Score
+#### My Score
 
 I think i should get a 28/30 on this assignment. Sadly, since the max number of comments that I posted was stuck at 1000, and I had some invalid comments that I couldn't figure out how to get rid of, I was only able to get to 792 valid replies. If the maximum allowed comments was extended I definitely would have crossed the 1000 mark, but I still completed the 1st and 2nd extra credit.
 
 I also completed the 4th and 7th extra credit. The 4th is in a seperate python file in the repo, and the 6th is in my code on line 179.
+
+I didn't complete any of the other extra credit assignments(options 3, 4, 5, 7). In total, I did 4: 1st, 2nd, 4th and 6th, so in theory that should be a 28/30.
